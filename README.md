@@ -18,3 +18,5 @@ This project uses regression analysis to study community resiliency and predicts
 The dataset used is an OpenFEMA Dataset for Disaster Declarations and can be found at the following source: https://www.fema.gov/openfema-data-page/disaster-declarations-summaries-v2 
 
  
+### Features of Interest
+
