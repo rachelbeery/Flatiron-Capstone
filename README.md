@@ -1,6 +1,6 @@
 # Flatiron-Capstone
 
-<img src=''>
+<img src='https://github.com/rachelbeery/Flatiron-Capstone/blob/main/hazardmit.jpg'>
 
 ## Project Overview
 
