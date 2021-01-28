@@ -4,13 +4,14 @@
 
 ## Project Overview
 
-This project uses regression analysis to study community resiliency and predicts hazard mitigation success. To reduce community damage, money, and resources spent we can increase our ROI through correct allocation of hazard mitigation funds. How do we measure hazard mitigation success?
+This project uses regression analysis to study community resiliency and predicts hazard mitigation success. To reduce community damage, money, and resources spent we can increase our ROI through correct allocation of hazard mitigation funds. 
 
-- Tax money spent on hazard mitigation compared to recovery efforts
+### Hazard Mitigation
 
-- Time taken to resolve natural disaster damage
 
-- 
+
+### Recovery 
+
 
 
 ### The Data
