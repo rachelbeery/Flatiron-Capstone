@@ -27,7 +27,7 @@ Refer to the Capstone_Hazard_Mitigation and Capstone_Recovery notebooks as guide
 
 ### Features of most importance in Hazard Mitigation
 
-Better region planning would benefit hazard mitigation to reduce recovery costs. 
+Better region planning would benefit hazard mitigation to reduce recovery costs. The states with the largest recovery cost include Alaska, D.C., Arizona, Louisiana, and Puerto Rico. These states and regions they are included in are all coastal areas with increased amount of natural disasters.
 
 <img src='https://github.com/rachelbeery/Flatiron-Capstone/blob/main/fema%20map.png'>
 
@@ -38,6 +38,14 @@ Better region planning would benefit hazard mitigation to reduce recovery costs.
 In recent years (since 2015) Recovery costs have increased greatly due to increase in natural disaster damage. 2016 had the highest costs of recovery costs.
 
 <img src='https://github.com/rachelbeery/Flatiron-Capstone/blob/main/projectamountbyyear.png'>
+
+The following visual shows what Incident Type/Natural Disaster have the highest project amount.
+
+<img src='https://github.com/rachelbeery/Flatiron-Capstone/blob/main/natdisprogramamount.png'>
+
+Damage Category and project amounts for each were also a signicant indicator of how costly a recovery project would be.
+
+<img src='https://github.com/rachelbeery/Flatiron-Capstone/blob/main/damageamount.png'>
 
 ### The Data
 
