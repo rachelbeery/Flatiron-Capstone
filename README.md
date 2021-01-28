@@ -6,6 +6,12 @@
 
 This project uses regression analysis to study community resiliency and predicts hazard mitigation success. To reduce community damage, money, and resources spent we can increase our ROI through correct allocation of hazard mitigation funds. 
 
+## Notebooks
+
+Refer to the Capstone_Hazard Mitigation and Capstone_Recovery notebooks as guides for Hazard Mitigation and Recovery Analysis at:
+
+
+
 ### Hazard Mitigation
 
 Better region planning would benefit hazard mitigation to reduce recovery costs. 
