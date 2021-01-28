@@ -49,5 +49,7 @@ Damage Category and project amounts for each were also a signicant indicator of 
 
 ### The Data
 
-The dataset used is an OpenFEMA Dataset for Disaster Declarations and can be found at the following source: https://www.fema.gov/openfema-data-page 
+The dataset used is an OpenFEMA Dataset for Hazard Mitigation Analysis and can be found at the following source: https://www.fema.gov/openfema-data-page/hazard-mitigation-assistance-projects-v2 
+
+The dataset used is an OpenFEMA Dataset for Hazard Mitigation Analysis and can be found at the following source: https://www.fema.gov/openfema-data-page/public-assistance-funded-projects-details-v1
 
