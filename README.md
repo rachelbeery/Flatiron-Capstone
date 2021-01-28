@@ -8,11 +8,24 @@ This project uses regression analysis to study community resiliency and predicts
 
 ## Notebooks
 
-Refer to the Capstone_Hazard Mitigation and Capstone_Recovery notebooks as guides for Hazard Mitigation and Recovery Analysis at:
+Refer to the Capstone_Hazard_Mitigation and Capstone_Recovery notebooks as guides for Hazard Mitigation and Recovery Analysis
+
+## Final Findings
+
+- Hazard Mitigation
+   - More funds should be allocated to hazard mitigation in all categories as natural disasters and subsequently recovery are increasing 
+
+- Recovery
+   - Budgets should be analyzed to understand what regions of the U.S. should receive more funding over other regions with higher risk to natural disaster costs
+       - Alaska, DC, Arizona, Louisiana, Puerto Rico, Idaho
+       - Coastal areas need more funding than those of the Mid West
+
+- Less common Natural Disaster Preparedness
+   - The costs of COVID-19 surpass all categories of natural disaster recovery costs
+   - Volcanoes were second highest cost even though they are less common natural disaster
 
 
-
-### Hazard Mitigation
+### Features of most importance in Hazard Mitigation
 
 Better region planning would benefit hazard mitigation to reduce recovery costs. 
 
@@ -20,14 +33,13 @@ Better region planning would benefit hazard mitigation to reduce recovery costs.
 
 <img src='https://github.com/rachelbeery/Flatiron-Capstone/blob/main/regionmit.png'>
 
-### Recovery 
+### Features of most importance in Recovery
 
-<img src=''>
+In recent years (since 2015) Recovery costs have increased greatly due to increase in natural disaster damage. 2016 had the highest costs of recovery costs.
+
+<img src='https://github.com/rachelbeery/Flatiron-Capstone/blob/main/projectamountbyyear.png'>
 
 ### The Data
 
-The dataset used is an OpenFEMA Dataset for Disaster Declarations and can be found at the following source: https://www.fema.gov/openfema-data-page/disaster-declarations-summaries-v2 
-
- 
-### Features of Interest
+The dataset used is an OpenFEMA Dataset for Disaster Declarations and can be found at the following source: https://www.fema.gov/openfema-data-page 
 
