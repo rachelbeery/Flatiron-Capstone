@@ -8,13 +8,15 @@ This project uses regression analysis to study community resiliency and predicts
 
 ### Hazard Mitigation
 
-<img src=''>
+Better region planning would benefit hazard mitigation to reduce recovery costs. 
+
+<img src='https://github.com/rachelbeery/Flatiron-Capstone/blob/main/fema%20map.png'>
 
 <img src='https://github.com/rachelbeery/Flatiron-Capstone/blob/main/regionmit.png'>
 
 ### Recovery 
 
-
+<img src=''>
 
 ### The Data
 
