@@ -6,9 +6,11 @@
 
 This project uses regression analysis to study the features of most importance in hazard mitigation success. To reduce community damage, money, and resources spent we can increase our ROI through correct allocation of hazard mitigation funds. 
 
-## Notebooks
+## Notebook & Dataset
 
-Refer to the Capstone_Hazard_Mitigation_Positive_ROI notebook as a guide for Hazard Mitigation and Recovery Analysis
+Refer to the Capstone_Hazard_Mitigation_Positive_ROI notebook as a guide for Hazard Mitigation and Recovery Analysis.
+
+The Opendataset can be downloaded at the following link: https://www.fema.gov/openfema-data-page/hazard-mitigation-assistance-projects-v2 
 
 ## Final Findings
 
@@ -23,6 +25,13 @@ Refer to the Capstone_Hazard_Mitigation_Positive_ROI notebook as a guide for Haz
    - The costs of COVID-19 surpass all categories of natural disaster recovery costs
           - Preparations could have been made to offset the extreme costs of COVID-19
 
+### Project Amount
+
+For modeling purposes, extreme outliers were removed and project amount was limited to $500,000. In the following visual we can see that project amounts in hazard mitigation are heavily right skewed.
+
+<img src='https://github.com/rachelbeery/Flatiron-Capstone/blob/main/Images/projectamount_updated.png'>
+
+
 ### Program Areas of most importance in Hazard Mitigation
 
 The following visual is a boxplot that shows the quantity of each project area along with the costs to understand the spread of costs for each area.
@@ -31,7 +40,8 @@ The following visual is a boxplot that shows the quantity of each project area a
 
 In the visual below it is evident that even with varying cost of projects in each program area there is equal spread of benefit cost ratio. 
 
-<img src='https://github.com/rachelbeery/Flatiron-Capstone/blob/main/Images/programROIbencost.png'>
+<img src='https://github.com/rachelbeery/Flatiron-Capstone/blob/main/Images/projectamountscatterprogramarea_updated.png'>
+
 
 ### Regions of most importance in Hazard Mitigation
 
@@ -41,7 +51,12 @@ Regions 6 & 7 have the lowest ROI
 
 <img src='https://github.com/rachelbeery/Flatiron-Capstone/blob/main/fema%20map.png'>
 
-<img src='https://github.com/rachelbeery/Flatiron-Capstone/blob/main/Images/regionviolin.png'>
+<img src='https://github.com/rachelbeery/Flatiron-Capstone/blob/main/Images/RegionROI.png'>
+
+<img src='https://github.com/rachelbeery/Flatiron-Capstone/blob/main/Images/boxplotregion.png'>
+
+<img src='https://github.com/rachelbeery/Flatiron-Capstone/blob/main/Images/stripplotregion.png'>
+
 
 ### Hazard Mitigation Costs over time
 
