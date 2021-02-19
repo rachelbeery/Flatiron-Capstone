@@ -34,9 +34,9 @@ For modeling purposes, extreme outliers were removed and project amount was limi
 
 ### Program Areas of most importance in Hazard Mitigation
 
-The following visual is a boxplot that shows the quantity of each project area along with the costs to understand the spread of costs for each area.
+The following visual is a boxplot combination with a swarmplot that shows the quantity of each project area along with the costs to understand the spread of costs for each area.
 
-<img src='https://github.com/rachelbeery/Flatiron-Capstone/blob/main/Images/programROI.png'>
+<img src='https://github.com/rachelbeery/Flatiron-Capstone/blob/main/Images/swarmplot_programarea_projectamount.png'>
 
 In the visual below it is evident that even with varying cost of projects in each program area there is equal spread of benefit cost ratio. 
 
